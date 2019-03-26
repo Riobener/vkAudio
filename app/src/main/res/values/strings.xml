@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">vkAudio</string>
+    <integer name="com_vk_sdk_AppId">6914179</integer>
+</resources>
